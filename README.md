@@ -26,5 +26,6 @@ This is a Learning enviroment for me and Tom
 - Branch so both of us have our own branch off master  
 - Establish a connection to the api
 - Figure out which endpoint of the api we want to interact with 
+- Decide on a better language than Python 🙃
 
 
